@@ -1,4 +1,4 @@
-<img alt="instant gratification monkey" height="400px" src="https://github.com/uzilan/uzilan/blob/master/wbwmonkey.png">
+<img alt="instant gratification monkey" height="400px" align="right" src="https://github.com/uzilan/uzilan/blob/master/wbwmonkey.png">
 
 ## Who is this monkey?
 `<monkey credit>`<br/>
