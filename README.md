@@ -1,7 +1,9 @@
 ## Who is this monkey?
+&lt;monkey credit&gt;<br/>
 I've borrowed this beautiful monkey from [Wait but Why](https://waitbutwhy.com/) which is my favorite place in the entire internet. 
-It is called the instant gratification monkey and you can [read all about him](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html). 
-or [watch the Ted talk about him](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator/up-next).
+It is called the instant gratification monkey and you can [read all about him](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) 
+or [watch the Ted talk about him](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator/up-next).<br/>
+&lt;/monkey credit&gt;
 
 You can find my various profiles here:
 * @[github](https://github.com/uzilan)
@@ -12,6 +14,10 @@ You can find my various profiles here:
 * Tech lead/architect/developer @[Webstep](https://webstep.se)
 * Kotlin mentor @[Exercism](https://exercism.io/)
 * Occasional writer @[Medium](https://medium.com/)
+* I've also created som workshops:
+  * [Scala workshop](https://github.com/uzilan/scalaworkshop)
+  * [Kotlin workshop](https://github.com/WebstepSweden/kotlinworkshop)
+  * [Go workshop](https://github.com/WebstepSweden/goworkshop)
 
 <!--
 **uzilan/uzilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
