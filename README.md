@@ -15,7 +15,11 @@ You can find my various profiles here:
 ## What does this monkey do?
 * Tech lead/architect/developer @[Webstep](https://webstep.se)
 * Kotlin mentor @[Exercism](https://exercism.io/)
-* Occasional writer @[Medium](https://medium.com/)
+* Occasional writer @[Medium](https://medium.com/):
+  * [A tour of Exercism, part 1](https://medium.com/webstep/a-tour-of-exercism-9fe2946ea4ba)
+  * [A tour of Exercism, part 2](https://medium.com/webstep/a-tour-of-exercism-part-two-d100d0503dee)
+  * [A Java developer’s adventures through the strange landscape of Go](https://medium.com/webstep/a-java-developers-adventures-through-the-strange-landscape-of-go-b49b3c9225eb)
+  * [How to create amazing workshops](https://medium.com/webstep/how-to-create-amazing-workshops-9833e0743d96)
 * I've also created som workshops:
   * [Scala workshop](https://github.com/uzilan/scalaworkshop)
   * [Kotlin workshop](https://github.com/WebstepSweden/kotlinworkshop)
