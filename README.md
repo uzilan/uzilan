@@ -1,9 +1,14 @@
-## Who?
-* Me @[github](https://github.com/uzilan)
-* Me @[linkedin](https://linkedin.com/in/uzilan)
-* Me @[twitter](https://twitter.com/uzi_landsmann)
-* Me @[medium](https://medium.com/@uzi.landsmann)
-## What?
+## Who is this monkey?
+I've borrowed this beautiful monkey from [Wait but Why](https://waitbutwhy.com/) which is my favorite place in the entire internet. 
+It is called the instant gratification monkey and you can [read all about him](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html). 
+or [watch the Ted talk about him](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator/up-next).
+
+You can find my various profiles here:
+* @[github](https://github.com/uzilan)
+* @[linkedin](https://linkedin.com/in/uzilan)
+* @[twitter](https://twitter.com/uzi_landsmann)
+* @[medium](https://medium.com/@uzi.landsmann)
+## What does this monkey do?
 * Tech lead/architect/developer @[Webstep](https://webstep.se)
 * Kotlin mentor @[Exercism](https://exercism.io/)
 * Occasional writer @[Medium](https://medium.com/)
