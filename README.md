@@ -1,4 +1,4 @@
-![instant gratification monkey](https://github.com/uzilan/uzilan/blob/master/60A857E6-2110-4D07-B25F-87A45033C5C5.png)
+<img alt="instant gratification monkey" src="https://github.com/uzilan/uzilan/blob/master/wbwmonkey.png">
 
 ## Who is this monkey?
 `<monkey credit>`<br/>
