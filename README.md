@@ -1,9 +1,11 @@
+![instant gratification monkey](60A857E6-2110-4D07-B25F-87A45033C5C5.png)
+
 ## Who is this monkey?
-&lt;monkey credit&gt;<br/>
+`<monkey credit>`<br/>
 I've borrowed this beautiful monkey from [Wait but Why](https://waitbutwhy.com/) which is my favorite place in the entire internet. 
 It is called the instant gratification monkey and you can [read all about him](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) 
 or [watch the Ted talk about him](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator/up-next).<br/>
-&lt;/monkey credit&gt;
+`</monkey credit>`
 
 You can find my various profiles here:
 * @[github](https://github.com/uzilan)
