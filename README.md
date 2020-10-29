@@ -22,6 +22,7 @@ You can find my various profiles here:
   * [A Java developer’s adventures through the strange landscape of Go](https://medium.com/webstep/a-java-developers-adventures-through-the-strange-landscape-of-go-b49b3c9225eb)
   * [How to create amazing workshops](https://medium.com/webstep/how-to-create-amazing-workshops-9833e0743d96)
   * [How trolls count in Kotlin](https://medium.com/webstep/how-trolls-count-in-kotlin-80465b2019c0)
+  * [An optional epiphany](https://medium.com/webstep/an-optional-epiphany-5cf92770573b)
 * I've also created some workshops:
   * [Scala workshop](https://github.com/uzilan/scalaworkshop)
   * [Kotlin workshop](https://github.com/WebstepSweden/kotlinworkshop)
