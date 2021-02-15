@@ -23,6 +23,7 @@ You can find my various profiles here:
   * [How to create amazing workshops](https://medium.com/webstep/how-to-create-amazing-workshops-9833e0743d96)
   * [How trolls count in Kotlin](https://medium.com/webstep/how-trolls-count-in-kotlin-80465b2019c0)
   * [An optional epiphany](https://medium.com/webstep/an-optional-epiphany-5cf92770573b)
+  * [Reducing in Java and Kotlin](https://medium.com/webstep/reducing-in-java-and-kotlin-ca958c02edae)
 * I've also created some workshops:
   * [Scala workshop](https://github.com/uzilan/scalaworkshop)
   * [Kotlin workshop](https://github.com/WebstepSweden/kotlinworkshop)
