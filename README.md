@@ -24,6 +24,7 @@ You can find my various profiles here:
   * [How trolls count in Kotlin](https://medium.com/webstep/how-trolls-count-in-kotlin-80465b2019c0)
   * [An optional epiphany](https://medium.com/webstep/an-optional-epiphany-5cf92770573b)
   * [Reducing in Java and Kotlin](https://medium.com/webstep/reducing-in-java-and-kotlin-ca958c02edae)
+  * [Reified — abstract made concrete in Kotlin](https://medium.com/webstep/reified-abstract-made-concrete-in-kotlin-d6648d6c5b3)
 * I've also created some workshops:
   * [Scala workshop](https://github.com/uzilan/scalaworkshop)
   * [Kotlin workshop](https://github.com/WebstepSweden/kotlinworkshop)
