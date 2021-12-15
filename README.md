@@ -17,30 +17,6 @@ You can find my various profiles here:
 * Tech lead/architect/developer @[Webstep](https://webstep.se)
 * Kotlin mentor @[Exercism](https://exercism.io/)
 * Occasional writer @[Medium](https://medium.com/):
-  * [A tour of Exercism, part 1](https://medium.com/webstep/a-tour-of-exercism-9fe2946ea4ba)
-  * [A tour of Exercism, part 2](https://medium.com/webstep/a-tour-of-exercism-part-two-d100d0503dee)
-  * [A Java developer’s adventures through the strange landscape of Go](https://medium.com/webstep/a-java-developers-adventures-through-the-strange-landscape-of-go-b49b3c9225eb)
-  * [How to create amazing workshops](https://medium.com/webstep/how-to-create-amazing-workshops-9833e0743d96)
-  * [How trolls count in Kotlin](https://medium.com/webstep/how-trolls-count-in-kotlin-80465b2019c0)
-  * [An optional epiphany](https://medium.com/webstep/an-optional-epiphany-5cf92770573b)
-  * [Reducing in Java and Kotlin](https://medium.com/webstep/reducing-in-java-and-kotlin-ca958c02edae)
-  * [Reified — abstract made concrete in Kotlin](https://medium.com/webstep/reified-abstract-made-concrete-in-kotlin-d6648d6c5b3)
-* I've also created some workshops:
-  * [Scala workshop](https://github.com/uzilan/scalaworkshop)
-  * [Kotlin workshop](https://github.com/WebstepSweden/kotlinworkshop)
-  * [Go workshop](https://github.com/WebstepSweden/goworkshop)
-
-<!--
-**uzilan/uzilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * [Dev stuff](Zerubbabel vs the JVM)
+  * [Fiction](https://medium.com/@uzi.landsmann/list/fiction-6ea802e283b5)
+  * [Fiction in Swedish](https://medium.com/@uzi.landsmann/list/pa-svenska-0b4abfc7cb70)
