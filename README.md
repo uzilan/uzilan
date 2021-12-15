@@ -17,6 +17,6 @@ You can find my various profiles here:
 * Tech lead/architect/developer @[Webstep](https://webstep.se)
 * Kotlin mentor @[Exercism](https://exercism.io/)
 * Occasional writer @[Medium](https://medium.com/):
-  * [Dev stuff](Zerubbabel vs the JVM)
+  * [Dev stuff](https://medium.com/@uzi.landsmann/list/dev-stuff-8397360b6f66)
   * [Fiction](https://medium.com/@uzi.landsmann/list/fiction-6ea802e283b5)
   * [Fiction in Swedish](https://medium.com/@uzi.landsmann/list/pa-svenska-0b4abfc7cb70)
