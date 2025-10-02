@@ -14,7 +14,7 @@ You can find my various profiles here:
 * @[twitter](https://twitter.com/uzi_landsmann)
 * @[medium](https://medium.com/@uzi.landsmann)
 ## What does this monkey do?
-* Tech lead/architect/developer @[Webstep](https://webstep.se)
+* Tech lead/architect/developer @[Geisli](https://www.geisli.se/)
 * Kotlin mentor @[Exercism](https://exercism.io/)
 * Occasional writer @[Medium](https://medium.com/):
   * [Dev stuff](https://medium.com/@uzi.landsmann/list/dev-stuff-8397360b6f66)
